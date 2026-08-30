@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: 推型笔记
+  pageTitle: 推星宗
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
